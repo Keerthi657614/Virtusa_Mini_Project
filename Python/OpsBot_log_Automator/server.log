@@ -1,0 +1,25 @@
+2026-04-09 08:15:21 INFO Server started successfully
+2026-04-09 08:16:02 INFO User admin logged in
+2026-04-09 08:17:45 INFO Scheduled backup initiated
+2026-04-09 08:18:10 ERROR Database connection timeout
+2026-04-09 08:19:33 INFO Backup completed successfully
+2026-04-09 08:20:05 FAILED LOGIN attempt for user root from 192.168.1.12
+2026-04-09 08:21:44 INFO API request processed (200 OK)
+2026-04-09 08:22:30 CRITICAL Disk space critically low on /dev/sda1
+2026-04-09 08:23:50 INFO Cache cleared successfully
+2026-04-09 08:24:15 ERROR Unable to send email notification
+2026-04-09 08:25:01 INFO User guest logged out
+2026-04-09 08:26:17 FAILED LOGIN attempt for user admin from 10.0.0.8
+2026-04-09 08:27:39 INFO New user registered: user123
+2026-04-09 08:28:42 CRITICAL Unauthorized access to secure module
+2026-04-09 08:29:55 INFO Health check passed
+2026-04-09 08:30:12 ERROR File upload failed due to size limit
+2026-04-09 08:31:33 INFO Session expired for user guest
+2026-04-09 08:32:10 FAILED LOGIN attempt for user test from 172.16.0.3
+2026-04-09 08:33:27 INFO System resources usage normal
+2026-04-09 08:34:49 CRITICAL Kernel panic detected
+2026-04-09 08:35:15 INFO Restarting services
+2026-04-09 08:36:22 ERROR Payment gateway timeout
+2026-04-09 08:37:41 INFO Notification sent successfully
+2026-04-09 08:38:59 FAILED LOGIN attempt for user unknown from 203.0.113.5
+2026-04-09 08:40:10 INFO Server running smoothly
